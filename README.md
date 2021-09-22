@@ -14,10 +14,10 @@ Add a Flask based web app to GCP Shell
 <img width="1440" alt="Screenshot 2021-09-22 at 9 38 06 AM" src="https://user-images.githubusercontent.com/21003585/134285533-3fcabcb9-a801-4098-8739-435b0e3da51c.png">
 
 
-4) Install the required packages by below command
+4) Install the required packages by below command on shell
    **pip install -r requirement.txt**
    
-   run the server
+   run on shell 
    **python hello.py**
    
 <img width="1440" alt="Screenshot 2021-09-22 at 10 17 34 AM" src="https://user-images.githubusercontent.com/21003585/134285693-81e87ba5-aa52-427d-a0d0-ec85cbb735dd.png">
