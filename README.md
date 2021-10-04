@@ -1,7 +1,8 @@
 Add a Flask based web app to GCP Shell
 
 1) Just basic flask program
-<img width="1017" alt="Screenshot 2021-09-22 at 8 50 47 AM" src="https://user-images.githubusercontent.com/21003585/135778140-f7798db0-4488-4f17-93ad-10639fc438ae.png">
+<img width="1440" alt="Screenshot 2021-10-04 at 5 38 19 AM" src="https://user-images.githubusercontent.com/21003585/135778174-8fbe6458-f84d-4922-8cff-ca707aa04970.png">
+
 
 
 2) Open google shell and clone this repository
